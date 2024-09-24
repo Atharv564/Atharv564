@@ -22,6 +22,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Atharv564&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Atharv564&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Atharv564&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
